@@ -1,0 +1,17 @@
+{
+  "name": "玩擲",
+  "short_name": "玩擲",
+  "description": "每局不用三分鐘的益智與挑戰小遊戲",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "zh-Hant",
+  "background_color": "#F7F6F0",
+  "theme_color": "#F7F6F0",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

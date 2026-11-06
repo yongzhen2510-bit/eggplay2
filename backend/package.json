@@ -1,0 +1,14 @@
+{
+  "name": "wanzhi-backend",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node src/index.js" },
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "postgres": "^3.4.7",
+    "ws": "^8.18.0"
+  }
+}
